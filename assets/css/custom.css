@@ -30,3 +30,13 @@ h3 {
   color:lightgray;
   font-weight:400;
 }
+#global-contact-form button[type="submit"] {
+    background-color:black;
+    /*text-transform: none;*/
+    font-family: "Poppins", sans-serif;
+    border-radius:10px;
+    border-style:solid;
+    border-color:white;
+    border-width:1px;
+    color:lightgray !important;
+}
