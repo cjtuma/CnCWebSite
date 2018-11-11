@@ -1,0 +1,32 @@
+#global-contact-form {
+  width:50%;
+  margin:auto;
+  vertical-align: middle
+}
+#global-contact-form label {
+  float:left;
+  /*border:2px solid deeppink;*/
+  text-align: left;
+  width:30%;
+  font-size:12pt;
+  clear:both;
+}
+#global-contact-form input, #global-contact-form textarea {
+  width:70%;
+  float:left;
+  /*border:2px solid limegreen;*/
+  height:auto;
+  padding:2px;
+  font-size:12pt;
+  color:lightgray;
+}
+.clearfix {
+  clear:both;
+}
+h3 {
+  color:lightgray
+}
+#footer .copyright {
+  color:lightgray;
+  font-weight:400;
+}
